@@ -2737,3 +2737,16 @@ select.form-control:not([size]):not([multiple]):not(.form-control-sm) {
 .ui-widget-header {
   background: #0071cc;
 }
+
+.show_time .tm{
+  padding: 5px;
+}
+
+.time{
+  background-color: #4e4e4e;
+  color: #fe9900;
+  font-weight: bold;
+  height: 75px;
+  padding: 25px;
+  width: 125px;
+}
